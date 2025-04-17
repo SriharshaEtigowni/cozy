@@ -1,3 +1,5 @@
+![COZY-invert](https://github.com/user-attachments/assets/4aba99ab-d47a-4af1-a0a7-5986a41a41fa)
+
 # cozy (Comparative Symbolic Execution)
 
 cozy is a symbolic execution framework built around angr to enable comparative evaluation.
