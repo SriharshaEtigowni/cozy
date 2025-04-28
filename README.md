@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4aba99ab-d47a-4af1-a0a7-5986a41a41fa">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ccef4dc9-b706-40ea-8484-d48c80fee646">
-  <img alt="cozy Logo" src="https://github.com/user-attachments/assets/8a8cc115-78db-4b11-8fae-9824b554f356">
-</picture>
+<p align="center">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="logos/COZY-invert.png">
+     <source media="(prefers-color-scheme: light)" srcset="logos/COZY-full-color.png">
+     <img alt="cozy Logo" src="logos/COZY-black-bg.png">
+   </picture>
+</p>
 
 # cozy (Comparative Symbolic Execution)
 
