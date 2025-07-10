@@ -36,6 +36,15 @@ The getting started guide and API reference can be found on our Github pages!:
 
 https://draperlaboratory.github.io/cozy/
 
+## Paper
+
+A paper on cozy has been published as part of the NDSS Workshop on Binary Analysis Research (BAR) 2025.
+At this workshop our paper received the BAR 2025 Distinguished Paper Award! You may read the cozy paper
+from the BAR website or on arXiv:
+
+- https://www.ndss-symposium.org/ndss-paper/auto-draft-633/
+- https://arxiv.org/abs/2504.00151
+
 ## Template Wizard
 
 cozy now comes with a Python script template generator to help you get started
