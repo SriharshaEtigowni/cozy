@@ -40,7 +40,7 @@ class JointConcolicSession:
         symbols may be passed as arguments, or may have been pre-stored in the memory of the session before this\
         method was called. This set is required during the concretization step where we need to generate concrete\
         values for all symbolic values in the program.
-        :param bool cache_intermediate_info: If this flag is True, then information about intermediate states will be
+        :param bool cache_intermediate_info: If this flag is True, then information about intermediate states will be\
         cached. This is required for dumping the execution graph which is used in visualization.
         :param int | None ret_addr_left: What address to return to if calling as a function
         :param int | None ret_addr_right: What address to return to if calling as a function

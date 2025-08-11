@@ -848,7 +848,7 @@ class Session:
 
         :param list[claripy.ast.bits] | None args: The arguments to pass to the function. angr will utilize the function's\
         type signature to figure out the calling convention to use with the arguments.
-        :param bool cache_intermediate_info: If this flag is True, then information about intermediate states will be
+        :param bool cache_intermediate_info: If this flag is True, then information about intermediate states will be\
         cached. This is required for dumping the execution graph which is used in visualization.
         :param int | None ret_addr: What address to return to if calling as a function
         :param int | None loop_bound: Sets an upper bound on loop iteration count. Useful for programs with\
